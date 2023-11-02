@@ -1,0 +1,2 @@
+# laamps
+LAMMPS installation
